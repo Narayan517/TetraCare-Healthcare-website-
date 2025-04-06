@@ -26,6 +26,6 @@ It provides a user-friendly interface for patients, doctors, and hospital staff 
 📌 How to Use
 🖥️ Run Locally
 Clone the repository:
-git clone https://github.com/your-username/tetracare-plus.git
+git clone https:https://github.com/Narayan517/TetraCare-Healthcare-website-
 cd tetracare-plus
 Open index.html in a browser (Chrome, Firefox, Edge, etc.).
