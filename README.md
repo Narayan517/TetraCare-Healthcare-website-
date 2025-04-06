@@ -1,6 +1,8 @@
 TetraCare+ is a comprehensive hospital management web application designed to streamline room bookings and medical equipment management.
 It provides a user-friendly interface for patients, doctors, and hospital staff to manage hospital services efficiently.
 
+
+
 🌟 Features
 1️⃣ Home Page
 1.Provides an overview of hospital services.
