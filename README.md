@@ -3,8 +3,10 @@ It provides a user-friendly interface for patients, doctors, and hospital staff 
 
 
 
-🌟 Features
-1️⃣ Home Page
+🌟 Features :
+
+1️⃣ Home Page:
+
 1.Provides an overview of hospital services.
 2.Includes a search bar for easy navigation.
 
